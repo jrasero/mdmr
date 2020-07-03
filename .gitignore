@@ -1,3 +1,6 @@
 mdmr/__pycache__/
+mdmr.egg-info/
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
 *.pyc
 *.pyo
